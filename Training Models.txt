@@ -1,0 +1,17 @@
+svmModelSpectralFeaturesCV - SVM model trained using all the seizure records for spectral features
+				Used for cross validation
+
+svmModelSpectralFeatures2Records - SVM model trained using seizure records in 2 hours for spectral features
+					3rd record and 15th record
+
+svmModelSpectralFeatures3Records - SVM model trained using seizure records in 3 hours for spectral features
+					3rd record, 4th record and 18th record
+
+svmModelWaveletFeaturesCV - SVM model trained using all the seizure recordsfor wavelet features
+				Used for cross validation
+
+svmModelWaveletFeatures2Records - SVM model trained using seizure records in 2 hours for wavelet features
+					3rd record and 15th record
+
+svmModelWaveletFeatures3Records - SVM model trained using seizure records in 2 hours for wavelet features
+					3rd record, 4th record and 18th record 
